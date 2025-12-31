@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://ibb.co.com/QvB3h2mX" alt="Banner" />
+  <img src="https://i.ibb.co.com/JjLw8fkC/2.png" alt="Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Your Full Name</h1>
