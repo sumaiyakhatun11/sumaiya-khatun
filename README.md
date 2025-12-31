@@ -69,10 +69,10 @@ Always curious, always improving, always shipping — and a fast learner ⚡
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sumaiyakhatun11&show_icons=true&theme=tokyonight" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumaiyakhatun11&layout=compact&theme=tokyonight" height="160"/>
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumaiyakhatun11&theme=tokyonight"/>
