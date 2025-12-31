@@ -49,6 +49,21 @@ Always curious, always improving, always shipping and a fast learner.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
 </p>
+---
+
+## 🌐 Connect With Me
+<p>
+  <a href="https://github.com/sumaiyakhatun11" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sumaiya-khatun-web/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+<a href="https://www.facebook.com/sumaiyameghla.CSE.PUST/" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+</p>
+
 
 
 ---
@@ -64,17 +79,3 @@ Always curious, always improving, always shipping and a fast learner.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight"/>
 </p>
 
----
-
-## 🌐 Connect With Me
-<p>
-  <a href="https://github.com/sumaiyakhatun11" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://www.linkedin.com/in/sumaiya-khatun-web/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
-<a href="https://www.facebook.com/sumaiyameghla.CSE.PUST/" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-</p>
