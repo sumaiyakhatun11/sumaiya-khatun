@@ -1,24 +1,26 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://i.ibb.co.com/JjLw8fkC/2.png" alt="Banner" />
+  <img src="https://i.ibb.co.com/m5gDL5WM/Blue-Modern-Corporate-Staff-Profile-Linked-In-Banner.png" alt="Banner" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Your Full Name</h1>
-<h3 align="center">Frontend Developer | Web Developer</h3>
+<h1 align="center">Hi, I'm Your Sumaiya Khatun</h1>
+<h3 align="center"> Web Developer</h3>
 
 ---
 
 ## 🚀 About Me
 I’m a passionate web developer who loves building modern, responsive, and user-friendly web applications.  
 I enjoy learning new technologies and turning ideas into real-world products.  
-Always curious, always improving, and always shipping 🚢.
+Always curious, always improving, always shipping and a fast learner.
 
 ---
 
 ## 🔭 Current Activities
+- 🔭 I’m pursuing B.sc in **CSE at PUST**.
 - 🌱 I am exploring **Next.js**
-- 🏗️ I’m working on a **tourism website**
+- 🤝 Currently developing a **website for an international admission agency (client project)**
 - 💡 Learning best practices for scalable frontend architecture
+- ⚡ Fun fact - I love to learn new languages and I can speak 3 languages and learning another one.
 
 ---
 
@@ -26,10 +28,11 @@ Always curious, always improving, and always shipping 🚢.
 
 ### 🎨 Frontend
 <p>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40"/>
 </p>
@@ -51,7 +54,7 @@ Always curious, always improving, and always shipping 🚢.
 
 ## 🌐 Connect With Me
 <p>
-  <a href="https://github.com/yourusername" target="_blank">
+  <a href="https://github.com/sumaiyakhatun11" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
   </a>
   <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
