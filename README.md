@@ -1,6 +1,5 @@
 <!-- Banner Image -->
 <p align="center">
-  <!-- Replace with ImgBB DIRECT image link -->
   <img src="https://i.ibb.co.com/m5gDL5WM/Blue-Modern-Corporate-Staff-Profile-Linked-In-Banner.png" alt="Banner" width="100%" />
 </p>
 
